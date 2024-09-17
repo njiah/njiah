@@ -4,6 +4,7 @@
 - Python
 - C++
 - C
+- Dart
 - JavaScript
 - HTML
 - CSS
