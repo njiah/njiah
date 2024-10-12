@@ -12,7 +12,7 @@
 ### My personal projects
 - Deepfake Detector
 - Bicycle Manufacturing Progress Tracking Dashboard
-- Sketch2Code
+- DoodleCode
 - Movie Recommendations
 - Restaurant Booking Website (with Django)
 - Hotel Booking Website (with Flask)
