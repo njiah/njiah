@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Ngwe Sandar Linn (Jiah). 🌚
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<!--## Hi 👋 I'm Jiah. 🌚
 
 ### Coding Languages
 - Python
@@ -17,7 +18,7 @@
 - Restaurant Booking Website (with Django)
 - Hotel Booking Website (with Flask)
 - BB8 Replica
-<!--
+
 **njiah/njiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
